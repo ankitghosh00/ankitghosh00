@@ -16,6 +16,11 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1kFT63k8GPFxtBbnWK5MQZMkL3snpk-9b_XaBRkTBKt8/edit?usp=sharing).
 </p>
 
+<h3 align="center">Support:</h3>
+<p><a href="https://ko-fi.com/ankitghosh00"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitghosh00" /></a></p><br><br>
+
+
+
 ![IMG_20210322_134105 (2)](https://user-images.githubusercontent.com/66225746/153236782-43207bf0-f990-4c02-afd7-466e284a103c.jpg)
 <h1 align="center">Happy Coding 👨‍💻</h1>
 
@@ -39,8 +44,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitghosh00" alt="ankitghosh00" /></a> </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ankitghosh00"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitghosh00" /></a></p><br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitghosh00&show_icons=true&locale=en&layout=compact" alt="ankitghosh00" /></p>
 
