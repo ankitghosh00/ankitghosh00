@@ -45,6 +45,6 @@
 
 
 
-<h1 align="right">Support:</h1>
+<h2 align="right">Support:</h2>
 <p><a href="https://ko-fi.com/ankitghosh00"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="ankitghosh00" /></a></p><br><br>
 
