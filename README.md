@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1kFT63k8GPFxtBbnWK5MQZMkL3snpk-9b_XaBRkTBKt8/edit?usp=sharing).
 </p>
 
-<h3 align="center">Support:</h3>
+<h1 align="left">Support:</h1>
 <p><a href="https://ko-fi.com/ankitghosh00"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitghosh00" /></a></p><br><br>
 
 
@@ -46,7 +46,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitghosh00&show_icons=true&locale=en&layout=compact" alt="ankitghosh00" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitghosh00&show_icons=true&locale=en&layout=compact" alt="ankitghosh00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitghosh00&show_icons=true&locale=en" alt="ankitghosh00" /></p>
 
