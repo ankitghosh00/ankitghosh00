@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ankit-kr-ghosh-3b0711198/**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kFT63k8GPFxtBbnWK5MQZMkL3snpk-9b_XaBRkTBKt8/edit?usp=sharing](https://docs.google.com/document/d/1kFT63k8GPFxtBbnWK5MQZMkL3snpk-9b_XaBRkTBKt8/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1kFT63k8GPFxtBbnWK5MQZMkL3snpk-9b_XaBRkTBKt8/edit?usp=sharing).
 </p>
 
 ![IMG_20210322_134105 (2)](https://user-images.githubusercontent.com/66225746/153236782-43207bf0-f990-4c02-afd7-466e284a103c.jpg)
@@ -42,7 +42,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ankitghosh00"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitghosh00" /></a></p><br><br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitghosh00&show_icons=true&locale=en&layout=compact" alt="ankitghosh00" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitghosh00&show_icons=true&locale=en&layout=compact" alt="ankitghosh00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitghosh00&show_icons=true&locale=en" alt="ankitghosh00" /></p>
 
