@@ -36,7 +36,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitghosh00&show_icons=true&locale=en&layout=compact" alt="ankitghosh00" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitghosh00&show_icons=true&locale=en&layout=compact" alt="ankitghosh00" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankitghosh00&show_icons=true&locale=en" alt="ankitghosh00" /></p>
 
@@ -45,6 +45,6 @@
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ankitghosh00"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="ankitghosh00" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+<p><a href="https://ko-fi.com/ankitghosh00"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="ankitghosh00" /></a></p><br><br>
 
