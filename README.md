@@ -15,14 +15,9 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XfPHoFmULbNH88euPlGv0nCw0G7oDFrj/view?usp=sharing).
 </p>
-
-<h1 align="left">Support:</h1>
-<p><a href="https://ko-fi.com/ankitghosh00"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ankitghosh00" /></a></p><br><br>
-
-
-
-![IMG_20210322_134105 (2)](https://user-images.githubusercontent.com/66225746/153236782-43207bf0-f990-4c02-afd7-466e284a103c.jpg)
-<h1 align="center">Happy Coding 👨‍💻</h1>
+<br>
+<a href="https://stardev.io/developers/ankitghosh00"><img alt="Check out ankitghosh00's profile on stardev.io" src="https://stardev.io/developers/ankitghosh00/badge/languages/global.svg" /></a>
+<br>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
