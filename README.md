@@ -3,16 +3,13 @@
 <h2 align="center">WELLCOME TO MY WORLD</h2>
 
 <p align="left">
-- 🔭 I’m currently working on [FLUTTER](https://github.com/ankitghosh00/Ecommerce-App)
 
-- 🌱 I’m currently learning **Flutter, Dart , Firebase , Python**
-
+- 🔭 I’m currently working on `Flutter` projects
+- 🌱 I’m currently learning `Data Structures and Algotiyhms With Java
+- 👯 I’m looking to collaborate on `Flutter packages``
 - 👨‍💻 All of my projects are available at [https://github.com/ankitghosh00](https://github.com/ankitghosh00)
-
 - 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **https://www.linkedin.com/in/ankit-kr-ghosh-3b0711198/**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XfPHoFmULbNH88euPlGv0nCw0G7oDFrj/view?usp=sharing).
 </p>
 <h2 align="center">Connect with me:</h2>
