@@ -33,11 +33,6 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitghosh00" alt="ankitghosh00" /></a> </p>
-
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitghosh00&show_icons=true&locale=en&layout=compact" alt="ankitghosh00" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankitghosh00&show_icons=true&locale=en" alt="ankitghosh00" /></p>
