@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ankitghosh00](https://github.com/ankitghosh00)
 - 💬 Ask me about **Flutter**
 - 📫 How to reach me **https://www.linkedin.com/in/ankit-kr-ghosh-3b0711198/**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XfPHoFmULbNH88euPlGv0nCw0G7oDFrj/view?usp=sharing).
+- 📄 Know about my experiences https://www.linkedin.com/in/ankit-kr-ghosh-3b0711198/overlay/1635492910781/single-media-viewer/?profileId=ACoAAC5hLfQBTjN4Dc7esVz1mjDuirWXNjTqbxA
 </p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
